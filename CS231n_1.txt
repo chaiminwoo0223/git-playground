@@ -1,0 +1,56 @@
+ • Computer Vision can be applied : Physics, Engineering, Mathematics, Computer Science, Psychology, Biology
+
+1.A Brief History of Computer Vision
+- About 543 million years ago, Earth was mostly water
+- About 540 million years ago, First animals developed eyes and the onset of vision
+- Animals haf to evolve quickly in order to survive
+1966, Summer Vision Project(MIT)
+
+2.3D model
+- Input Image
+- Primal Sketch
+- 2.5D Sketch
+- 3D Model Representation
+
+3.Generalized Cylinder(1979) & Pictorial Structure
+- The basic idea is that every object is composed of simple geometric primitives
+
+4.Machine Learning(1999-2000)
+- Especially statistical machine learing techniques start to gain momentum
+- momentum : SVM, Boosting graphical models
+- AdaBoost Algorithm : Face Detection에 기여
+
+5.ImageNet
+- Machine Learning이 많은 것을 기여
+- 트레이닝과 밴치마킹
+- Image Input -> Five Output
+- Convolutional Neural Networks가 많은 것을 기여
+
+6.Computer Vision Overview
+- Focus : Image classification
+
+7.a number of visual recognition problems(Image classification)
+- object detection, image captioning
+
+8.a number of visual recognition solutions(object recognition)
+- Convolutional Neural Networks : important tool
+
+9.Large Scale Visual Recognition Challenge
+- 2010 : NEC-UIUC
+- 2012 : SuperVision
+- 2014 : GoogleNet
+- 2015 : MSRA
+
+10.GPU의 사용과 컴퓨터의 속도가 점점 빨라져 계산량이 증가 : 딥러닝에 기여
+
+11.Open Challenge
+
+12.Computer Vision Technology Can Better Our Lives
+- Medical Diagnosis
+- Self-Driving Cars
+- Robotica
+- Idea of Understanding Human Intelligence
+
+13.Our Philosophy
+- Fun : Some fun topic such as Image Captioning(using RNN)
+- Also DeepDream, NeuralStyle, etc
